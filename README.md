@@ -115,5 +115,7 @@ git remote add origin URL_DEL_REPOSITORIO
 git push -u origin main
 ```
 
-## Nota
-Esta versión adapta la Parte B a un proyecto sin MySQL. En vez de usar SQL y productoModel.js, calcula estadísticas y filtros desde los productos extraídos del HTML.
+
+
+
+
