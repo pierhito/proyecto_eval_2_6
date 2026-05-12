@@ -1,0 +1,14 @@
+{
+  "name": "proyecto_eval_2_6_sin_mysql_corregido",
+  "version": "1.0.0",
+  "description": "Evaluacion 2.6 adaptada sin MySQL, usando Cheerio sobre catalogo.html",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "type": "commonjs",
+  "dependencies": {
+    "cheerio": "^1.2.0",
+    "express": "^5.2.1"
+  }
+}
